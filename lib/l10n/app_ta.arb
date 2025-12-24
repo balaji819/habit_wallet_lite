@@ -1,0 +1,59 @@
+{
+  "@@locale": "ta",
+
+  "appTitle": "ஹேபிட் வாலெட் லைட்",
+
+  "login": "உள்நுழை",
+  "email": "மின்னஞ்சல்",
+  "pin": "பின்",
+  "rememberMe": "என்னை நினைவில் வை",
+  "loginButton": "உள்நுழை",
+  "enterEmailPin": "மின்னஞ்சலும் பினும் உள்ளிடவும்",
+  "invalidCredentials": "தவறான மின்னஞ்சல் அல்லது பின்",
+
+  "transactions": "பரிவர்த்தனைகள்",
+  "addTransaction": "பரிவர்த்தனை சேர்க்க",
+  "noTransactions": "பரிவர்த்தனைகள் இல்லை",
+  "errorLoadingTransactions": "பரிவர்த்தனைகளை ஏற்றுவதில் பிழை",
+
+  "currentBalance": "தற்போதைய இருப்பு",
+
+  "accountType": "கணக்கு வகை",
+  "status": "நிலை",
+  "ifscCode": "IFSC குறியீடு",
+  "branch": "கிளை",
+
+  "editedLocally": "உள்ளூரில் திருத்தப்பட்டது",
+
+  "changeLanguage": "மொழி மாற்று",
+
+  "accountHolder": "கணக்கு விவரங்கள்",
+  "monthlySummary": "மாத சுருக்கம்",
+  "toggleTheme": "தீம் மாற்று",
+  "logout": "வெளியேறு",
+
+  "income": "வருமானம்",
+  "expense": "செலவு",
+
+  "incomeVsExpense": "வருமானம் vs செலவு",
+  "categoryBreakdown": "வகை வாரியான பகுப்பு",
+
+  "selectMonth": "மாதத்தை தேர்வு செய்",
+
+  "amount": "தொகை",
+  "category": "வகை",
+  "note": "குறிப்பு",
+  "transactionDate": "பரிவர்த்தனை தேதி",
+  "change": "மாற்று",
+  "save": "சேமி",
+
+  "enterValidAmount": "சரியான தொகையை உள்ளிடவும்",
+  "editTransaction": "பரிவர்த்தனை திருத்து",
+  "attachments": "இணைப்புகள்",
+  "addAttachment": "இணைப்பு சேர்க்க",
+  "attachmentStubNote": "ஆதரவு உள்ளது (ஸ்டப்)",
+  "attachmentNotImplemented": "இந்த பதிப்பில் கோப்பு தேர்வு இல்லை",
+  "noAttachments": "இணைப்புகள் எதுவும் சேர்க்கப்படவில்லை",
+  "retry": "மீண்டும் முயற்சி"
+
+}

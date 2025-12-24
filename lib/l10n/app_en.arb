@@ -1,0 +1,58 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Habit Wallet Lite",
+
+  "login": "Login",
+  "email": "Email",
+  "pin": "PIN",
+  "rememberMe": "Remember me",
+  "loginButton": "Login",
+  "enterEmailPin": "Please enter email and PIN",
+  "invalidCredentials": "Invalid email or PIN",
+
+  "transactions": "Transactions",
+  "addTransaction": "Add Transaction",
+  "noTransactions": "No transactions",
+  "errorLoadingTransactions": "Error loading transactions",
+
+  "currentBalance": "Current Balance",
+
+  "accountType": "Account Type",
+  "status": "Status",
+  "ifscCode": "IFSC Code",
+  "branch": "Branch",
+
+  "editedLocally": "Edited locally",
+
+  "changeLanguage": "Change Language",
+
+  "accountHolder": "Account Holder",
+  "monthlySummary": "Monthly Summary",
+  "toggleTheme": "Toggle Theme",
+  "logout": "Logout",
+
+  "income": "Income",
+  "expense": "Expense",
+
+  "incomeVsExpense": "Income vs Expense",
+  "categoryBreakdown": "Category Breakdown",
+
+  "selectMonth": "Select month",
+
+  "amount": "Amount",
+  "category": "Category",
+  "note": "Note",
+  "transactionDate": "Transaction Date",
+  "change": "Change",
+  "save": "Save",
+
+  "enterValidAmount": "Enter a valid amount",
+  "editTransaction": "Edit Transaction",
+  "attachments": "Attachments",
+  "addAttachment": "Add attachment",
+  "attachmentStubNote": "Supported (stub only)",
+  "attachmentNotImplemented": "File picker not implemented in this version",
+  "noAttachments": "No attachments adde",
+  "retry": "Retry"
+}
