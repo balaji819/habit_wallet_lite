@@ -60,7 +60,7 @@ dependencies:
   # -------------------------------
   # File Picker (CI-safe for Dart 3.3)
   # -------------------------------
-  file_picker: ^8.1.2
+  file_picker:  8.0.5
 
   # -------------------------------
   # Local Preferences
