@@ -41,7 +41,8 @@ dependencies:
   flutter_local_notifications: ^17.2.2
 
   # File picker
-  file_picker: ^10.3.8
+  file_picker: ^8.1.2
+
 
   # Local preferences
   shared_preferences: ^2.2.3
