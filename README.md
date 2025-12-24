@@ -1,6 +1,7 @@
 # Habit Wallet Lite
 
-![Flutter CI](https://github.com/balaji819/habit_wallet_lite/actions/workflows/flutter_ci.yml/badge.svg?branch=main)
+![Flutter CI]
+https://github.com/balaji819/habit_wallet_lite/actions/workflows/flutter_ci.yml/badge.svg?branch=main
 
 Offline-first mini personal finance manager built with Flutter.
 
