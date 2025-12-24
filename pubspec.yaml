@@ -1,5 +1,5 @@
 name: habit_wallet_lite
-description: "Offline-first personal finance mini app"
+description: Offline-first personal finance mini app
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -11,43 +11,65 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # -------------------------------
   # State Management
+  # -------------------------------
   flutter_riverpod: ^2.5.1
 
+  # -------------------------------
   # Local Database (Offline-first)
+  # -------------------------------
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   uuid: ^4.5.2
 
-  # Timezone (for notifications)
+  # -------------------------------
+  # Timezone (Notifications)
+  # -------------------------------
   timezone: ^0.9.4
 
-  # Immutable Models
+  # -------------------------------
+  # Immutable Models & Serialization
+  # -------------------------------
   freezed_annotation: ^2.4.1
   json_annotation: ^4.9.0
 
+  # -------------------------------
   # Charts
+  # -------------------------------
   fl_chart: ^0.66.2
 
+  # -------------------------------
   # Secure Storage (Auth Stub)
+  # -------------------------------
   flutter_secure_storage: ^9.2.2
 
+  # -------------------------------
   # Localization (i18n)
-  intl: ^0.20.0
+  # NOTE: intl is provided by flutter_localizations
+  # DO NOT add intl explicitly (SDK pinned)
+  # -------------------------------
   flutter_localizations:
     sdk: flutter
 
+  # -------------------------------
   # Notifications
+  # -------------------------------
   flutter_local_notifications: ^17.2.2
 
-  # File picker
+  # -------------------------------
+  # File Picker (CI-safe for Dart 3.3)
+  # -------------------------------
   file_picker: ^8.1.2
 
-
-  # Local preferences
+  # -------------------------------
+  # Local Preferences
+  # -------------------------------
   shared_preferences: ^2.2.3
 
-  # App icons
+  # -------------------------------
+  # App Icons
+  # -------------------------------
   flutter_launcher_icons: ^0.14.4
 
 dev_dependencies:
@@ -56,7 +78,9 @@ dev_dependencies:
 
   flutter_lints: ^4.0.0
 
+  # -------------------------------
   # Code Generation
+  # -------------------------------
   build_runner: ^2.4.9
   freezed: ^2.5.2
   json_serializable: ^6.8.0
